@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+.conteiner {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.titulo {
+    color: red;
+    right: 500px;
+    width: 500px;
+    margin: auto;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+.titulo2 {
+    width: 100px;
+    height: 100px;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+.texto {
+    width: 50px;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+
+.text {
+    width: 600px;
+    margin: 0;
+    font-family: "Radio Canada Big", sans-serif
+    
+    
+
+}
+.orcas {
+    position: relative;
+
+}
+
+
+
+.listas {
+    position: absolute;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-family: "Radio Canada Big", sans-serif
+}
+.listas2 {
+    position: relative;
+    left: -100px;
+
+}
+
+ul {
+    margin: 0;
+    position: absolute;
+    right: 200px;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+p {
+    position: relative;
+    left: 100px;
+}
+li {
+    color: rgb(1, 20, 71);
+}
+.listasbarra {
+    width: 200px;
+    right: -1000px;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+.conteiner2{
+    display: flex;
+    justify-content: flex-start;
+    right: 300px;
+    font-family: "Radio Canada Big", sans-serif
+    
+
+}
+
+.Articulo {
+    position: relative;
+    color: black !important;
+    background-color: transparent;
+    width: 100px;
+    height: 50px;
+    left: 285px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Radio Canada Big", sans-serif
+
+    }
+
+
+        
+.Discusion {
+    position: relative;
+    color: black;
+    background-color: transparent;
+    width: 100px;
+    left: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+.barra {
+    position: relative;
+    color: black;
+    left: 266px;
+    background-color: transparent;
+    width: 500px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+a {font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid black;
+
+
+
+}
+hr {
+    position: relative;
+    left: 320px;
+    margin: 0;
+    width: 600px;
+}
+
+
+
+.orcas {
+    position: relative;
+    left: 200px;
+    top: 25px;
+    height: 200px;
+}
+.listas {
+    left: 500px;
+}
+.titulo2 {
+    position: absolute;
+    left: 1130px;
+    top: 70px;
+    font-family: "Radio Canada Big", sans-serif
+
+}
+.orca7 {
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;    
+
+}
